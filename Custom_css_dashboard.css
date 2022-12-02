@@ -1,0 +1,92 @@
+.vertical-wrapper .title-vertical {
+    background-color: #05A6DF;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 13px 30px;
+    line-height: normal;
+    margin: 0;
+    text-transform: capitalize;
+  	font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+header.header-nav.menu_style_home_one.dashbord_pages .navbar_brand span{
+	text-transform: lowercase !important;
+}
+
+/* Menu di dashboard */
+.btn-group.show .dropdown-menu.dropdown-menu-right.show{
+	left:150px !important;
+}
+
+.my_course_content_list .mc_content_list .thumb{
+	min-width:0;
+}
+
+@media only screen and (max-width: 1199px){
+	.btn-group.show .dropdown-menu.dropdown-menu-right.show{
+		left:40px !important;
+	}
+}
+
+@media only screen and (max-width: 445px){
+	.candidate_revew_select div{
+  		display: block !important;
+  	}
+  
+  	.dashboard_main_content input[type=text]{
+  		width: 100%;
+  	}
+  
+  	.dashboard_main_content .btn:not(.btn-link){
+  		margin-top: 15px;
+  	}
+}
+/* End here */
+
+/*buat ngilangin modified*/
+.modified {display: none;}
+/*end here*/
+
+/* ubah kata ke huruf kecil pada logo bahaso setelah login */
+.mobile-menu .header.stylehome1 .main_logo_home2 span {
+    text-transform: lowercase;
+}
+/* end here*/
+
+/* untuk merubah posisi dropdown di page course agar responsive ketika device mobile*/
+@media only screen and (max-width: 1200px) {
+  .ccn_mc_content_header .ml-auto.dropdown .btn.btn-link.btn-icon{
+  	    margin-top: -27px;
+    	position: absolute;
+    	right: 0;
+  }
+}
+/* end here */
