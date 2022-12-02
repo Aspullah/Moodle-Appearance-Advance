@@ -1,0 +1,1082 @@
+.h20 {
+    height: 20em !important;
+}
+
+.h25 {
+    height: 25em !important;
+}
+
+.h30 {
+    height: 30em !important;
+}
+
+.h35 {
+    height: 35em !important;
+}
+
+.h40 {
+    height: 40em !important;
+}
+
+.h50 {
+    height: 50% !important;
+}
+
+.h60 {
+    height: 60% !important;
+}
+
+.h70 {
+    height: 70% !important;
+}
+
+.h80 {
+    height: 80% !important;
+}
+
+.h90 {
+    height: 90% !important;
+}
+
+.h100 {
+    height: 100% !important;
+}
+
+.btn-transparent{
+	color: #05A6DF;
+}
+
+.primary-navigation li {
+    color: #fff;
+}
+
+.ace-responsive-menu>li>a {
+    color: #fff;
+}
+
+.vertical-wrapper .title-vertical {
+    background-color: #05A6DF;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 13px 30px;
+    line-height: normal;
+    margin: 0;
+    text-transform: capitalize;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    -moz-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    -moz-justify-content: center;
+    justify-content: center;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.vertical-wrapper .title-vertical .show-down {
+    font-size: 16px;
+    float: right;
+    margin: 1px 0 0 10px;
+}
+
+.logo-widget span {
+    text-transform: lowercase !important;
+}
+
+.header_search_widget .mailchimp_form .form-control {
+    padding-left: 65px;
+}
+
+.header_search_widget .mailchimp_form button {
+    /*margin-left: -450px;*/
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 8px;
+}
+
+.stylehome1 a.mm-listitem__text,
+.stylehome1 a.mm-btn.mm-btn_next.mm-listitem__btn.mm-listitem__text {
+    text-transform: capitalize;
+}
+
+.owl-carousel .container .row .text-center {
+    text-align: left !important;
+}
+
+.owl-carousel .container .row .text-center p {
+    margin: 0;
+}
+
+.mobile-menu .header.stylehome1 .main_logo_home2 span {
+    text-transform: lowercase;
+}
+
+.footer_bottom_area {
+    background: linear-gradient(269.93deg, #05A6DF 2.56%, #3A7573 114.2%);
+    width: 100%;
+}
+
+.tc_footer ul {
+    display: none;
+}
+
+.tc_enrol_btn {
+    color: #05A6DF;
+}
+
+.ccnBlockContent #our-partners .container .row {
+    align-items: center;
+}
+
+
+@media (max-width: 500px) {
+    .ccnBlockContent #our-partners .container .row div div {
+        margin-bottom: 0;
+    }
+}
+
+
+#frontpage-available-course-list {
+    display: none
+}
+
+.bgc-white {
+    background-color: #05A6DF !important;
+    color: #fff;
+}
+
+.testimonial_slider_home2.home12 .owl-item.active.center .testimonial_item.home2 .details p {
+    color: #fff;
+}
+
+.testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details,
+.ccn_testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details {
+    background-color: #05A6DF;
+}
+
+.testimonial_slider_home2.home12 .owl-item.active.center .testimonial_item.home2 .details .icon {
+    color: #fff;
+}
+
+.testimonial_slider_home2.home12 .testimonial_item.home2 .thumb .subtitle {
+    color: #BFBFBF;
+}
+
+.main-banner-wrapper .carousel-btn-block .carousel-btn span.left,
+.main-banner-wrapper .carousel-btn-block .carousel-btn span.right {
+    display: none;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
+
+.carousel-indicators {
+    bottom: -50px;
+}
+
+.inner_page_breadcrumb:before {
+    background-image: linear-gradient(transparent, transparent);
+}
+
+.bahaso_cls_card {
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 30px;
+    padding: 50px 41px 30px 41px;
+    position: relative;
+    text-align: center;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.bahaso_cls_card_shadow {
+    margin: 5% 0;
+    padding: 24px 15px;
+    gap: 10px;
+    width: 100%;
+    height: 310px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgb(77 77 77 / 24%);
+    border-radius: 4px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  	border: 1px solid #eee;
+}
+
+.bahaso-title-card {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    color: #000;
+}
+
+.bahaso_cls_card.bahaso_style {
+    border: 1px solid #ebebeb;
+    overflow: hidden;
+    height: 25em;
+}
+
+.bahaso_cls_card.bahaso_style:before {
+    background-color: transparent;
+    bottom: 0;
+    content: "";
+    height: 5px;
+    left: 0;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    transition: all .2s ease;
+    z-index: 1;
+}
+
+.bahaso-btn-radius {
+    color: #FFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 24px;
+    gap: 10px;
+    width: 138px;
+    height: 36px;
+    background: #05A6DF;
+    border-radius: 4px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+}
+
+.bahaso-cls-custom .btn-radius {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 160px;
+    height: 50px;
+    background: #05A6DF;
+    box-shadow: 0px 4px 8px rgb(77 77 77 / 16%);
+    border-radius: 24px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    color: #fff;
+}
+
+.contact_form .ui_kit_input input {
+    height: 48px;
+}
+
+.testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details .icon, .ccn_testimonial_slider_home2 .owl-item.active.center .testimonial_item.home2 .details .icon{
+	color: #fff;
+}
+
+.testimonial_item.home2 .thumb .subtitle{
+	color: #BFBFBF !important;
+}
+
+.contact_form .ui_kit_input input,
+.contact_form .ui_kit_textarea textarea {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(221, 221, 221);
+    border-radius: 5px;
+    background-color: rgba(196, 14, 117, 0);
+    -webkit-box-shadow: 0 1px 4px 0 rgb(0 0 0 / 9%);
+    -moz-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .09);
+    -o-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, .09);
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 9%);
+}
+
+#bahaso_budy_s4 .circle-list {
+    margin-left: 1em;
+    margin-top: 2em;
+}
+
+#bahaso_budy_s4 .circle-list p:before {
+    top: 20px !important;
+    height: 35px !important;
+    width: 35px !important;
+    line-height: 1.8em !important;
+}
+
+#faq .ui_kit_tab .nav.nav-tabs {
+    padding: 10px 15px;
+}
+
+#faq .nav-tabs {
+    border-bottom: none;
+}
+
+#faq .nav-tabs .nav-link {
+    font-weight: 500;
+    font-family: 'Poppins';
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #05A6DF;
+    text-decoration: none;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
+}
+
+#faq .ui_kit_tab .nav.nav-tabs .nav-link.active {
+    border-radius: 5px;
+    color: #fff;
+    border: none;
+    background-color: #05A6DF;
+}
+
+#faq .ui_kit_tab .nav.nav-tabs .nav-link {
+    background: none;
+    border: 1px solid #05A6DF;
+    border-radius: 0.25rem;
+}
+
+#faq .ui_kit_tab .nav.nav-tabs {
+    background-color: transparent;
+}
+
+#faq .nav-tabs .nav-link:hover {
+    background-color: #05A6DF !important;
+    color: #FFFFFF;
+}
+
+#brand_ambasador ol,
+#bahaso_budy_s4 ol,
+#privacy ul {
+    /*list-style: list-item;*/
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    counter-reset: li;
+    /* Initiate a counter */
+    list-style: none;
+    /* Remove default numbering */
+    *list-style: decimal;
+}
+
+#brand_ambasador ol li {
+    margin-bottom: 15px;
+}
+
+#brand_ambasador .circle-list li {
+    padding: 1em;
+    border-bottom: 1px solid #ccc;
+}
+
+#brand_ambasador .circle-list h4,
+#bahaso_budy_s4 .circle-list p,
+#privacy .circle-list p {
+    position: relative;
+    display: block;
+    padding: .4em .4em .4em 2em;
+    *padding: .4em;
+    margin: .5em 0;
+    /*background: #ddd;*/
+    color: #444;
+    text-decoration: none;
+    border-radius: .3em;
+    transition: all .3s ease-out;
+}
+
+#brand_ambasador .circle-list h4:hover {
+    background: #eee;
+}
+
+#brand_ambasador .circle-list h4:hover:before {
+    transform: rotate(360deg);
+}
+
+#brand_ambasador .circle-list h4:before,
+#bahaso_budy_s4 .circle-list p:before {
+    color: #fff;
+    content: counter(li);
+    counter-increment: li;
+    position: absolute;
+    left: -1.3em;
+    top: 60%;
+    margin-top: -1.3em;
+    background: #05A6DF;
+    height: 41.09px;
+    width: 41.09px;
+    line-height: 1.8em;
+    border: 0.3em solid #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 2em;
+    transition: all .3s ease-out;
+}
+
+#brand_ambasador_s1 .about2_home3 a.about_btn_home3,
+#bahaso_budy_s1 .about2_home3 a.about_btn_home3 {
+    background-color: #05A6DF;
+    color: #FFFFFF;
+    height: 50px;
+    line-height: 35px;
+    margin-top: 30px;
+    width: 180px;
+    border: 2px solid #05A6DF;
+    border-radius: 25px;
+}
+
+#brand_ambasador_s2 .check-list {
+    margin: 0;
+    padding-left: 15px
+}
+
+#brand_ambasador_s2 .check-list li {
+    color: #4D4D4D;
+    position: relative;
+    list-style-type: none;
+    padding-left: 20px;
+    margin: 0
+}
+
+#brand_ambasador_s2 .check-list li:before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 2px;
+    width: 5px;
+    height: 12px;
+    border-width: 0 2px 2px 0;
+    border-style: solid;
+    border-color: #000;
+    transform-origin: bottom left;
+    transform: rotate(45deg)
+}
+
+#privacy ol {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+}
+
+#privacy ol li {
+    color: #05A6DF;
+    /*list-style:number;*/
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#privacy ol div {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+#privacy .circle-list p:before {
+    color: #fff;
+    content: "";
+    counter-increment: li;
+    position: absolute;
+    left: -0.5em;
+    top: 60%;
+    margin-top: -1.7em;
+    background: #05A6DF;
+    height: 20px;
+    width: 20px;
+    line-height: 1.8em;
+    border: 0.3em solid #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 2em;
+    transition: all .3s ease-out;
+}
+
+#termcondition ol {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    margin-left: 30px;
+    color: #05A6DF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+#termcondition ol ol {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+    color: #6f7074;
+    ;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+#termcondition ol ol ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+#termcondition ol li {
+    list-style: number;
+}
+
+#termcondition ul li {
+    list-style: none;
+}
+
+/* This is for course landing before entering course detail */
+.panah-bawah{
+	display:none;
+}
+
+@media only screen and (max-width: 600px) {
+  .panah-kanan {
+    display: none;
+  }
+  .panah-bawah{
+  	display: inline;
+  }
+}
+
+/* End here */
+
+/*buat gambar thumbnail course */
+.block_cocoon_featuredcourses .img-whp, .courses.courses_container .img-whp, .shop_product_slider .img-whp, .block_cocoon_more_courses .img-whp, .block_cocoon_course_grid .img-whp, .ccnPseudoFrontpageBlock .img-whp, .top_courses .img-whp{
+	object-fit: fill!important;
+}
+
+@media only screen and (max-width: 990px) {
+  .block_cocoon_featuredcourses .img-whp, .courses.courses_container .img-whp, .shop_product_slider .img-whp, .block_cocoon_more_courses .img-whp, .block_cocoon_course_grid .img-whp, .ccnPseudoFrontpageBlock .img-whp, .top_courses .img-whp{
+  	object-fit: cover!important;
+  }
+}
+/* End Here */
+
+/*buat gambar thumbnail video di detail course */
+#player .html5-video-player .ytp-cued-thumbnail-overlay .ytp-cued-thumbnail-overlay-image{
+  	background-size: contain;
+	-webkit-background-size: contain!important;
+}
+/* End Here */
+
+/*buat sizing card dari why chose us */
+@media only screen and (min-width: 1024px) {
+  .why_chose_us{
+  	height: 33em
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  .why_chose_us{
+  	height: 26em
+  }
+}
+
+@media only screen and (max-width: 1020px) {
+  .why_chose_us{
+  	height: 32em
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .why_chose_us{
+  	height: 26em
+  }
+}
+
+@media only screen and (max-width: 373px) {
+  .why_chose_us{
+  	height: 32em
+  }
+}
+/*End Here */
+
+/* Hubungi CS*/
+@media only screen and (max-width: 765px) {
+  .hubungi_cs{
+  	margin-top: 50px;
+  }
+}
+/* End Here */
+
+/*For Course Overview*/
+.cs_row_two .cs_overview ul.cs_course_syslebus{
+    margin-right: 0;
+    text-align: justify;
+}
+
+.cs_row_two .cs_overview p{
+	text-align: justify;
+}
+/*End Here*/
+
+
+/* Buat Login*/
+.sign_up_modal:before{
+	background-color:#05A6DF;
+}
+
+.text-thm{
+	color: #05A6DF!important;
+}
+
+.sign_up_modal .modal-header{
+	background-color:#EF4545;
+}
+
+.btn-thm2{
+	background-color:#05A6DF;
+  	border: none;
+}
+
+.login_form button {
+	border-radius: 12px;
+}
+/*End Here*/
+
+/*Preview Quiz*/
+@media only screen and (max-width: 600px){
+  .moodle-dialogue-base .moodle-dialogue-fullscreen .moodle-dialogue-content{
+  	right: 35%;
+  }
+}
+
+@media only screen and (max-width: 320px){
+  .moodle-dialogue-base .moodle-dialogue-fullscreen .moodle-dialogue-content{
+  	right: 45%;
+  }
+}
+/*End Here*/
+
+/*Content di dalam course*/
+.editing .section .activity .contentwithoutlink, .editing .section .activity .activityinstance{
+	text-align: justify;
+    padding: 20px;
+}
+
+#page-enrol-index .ccn-enrol-cta-box{
+	background-color: #FFF3CD
+}
+
+.courses_list_content .top_courses.list .thumb{
+	width: auto;
+}
+
+.top_courses .thumb{
+	width: auto;
+}
+
+/*End Here*/
+
+/*bahaso buddy*/
+@media only screen and (max-width: 1200px){
+  #buddy-vision{
+  	height: 280px !important;
+  }
+}
+
+@media only screen and (max-width: 405px){
+  #buddy-vision{
+  	height: 390px !important;
+  }
+}
+
+@media only screen and (max-width: 405px){
+  #buddy-intro{
+  	padding: 0!important;
+  }
+}
+/*End Here*/
+
+@media only screen and (max-width: 766px){
+	.activity-navigation #prev-activity-link, .activity-navigation #next-activity-link{
+  		margin-top: 15px;
+      	margin-bottom: 15px;
+  	}
+}
+
+@media (min-width: 992px){
+  .workshop .img-1{
+    	width: 250px;
+  }
+  .workshop .img-2{
+  	    height: 210px;
+    	width: 170;
+  }
+  .workshop .img-3{
+  	    height: 210px;
+    	width: 220px;
+  }
+}
+
+.activityiconcontainer.assessment {
+    background-image: url("https://learning.bahaso.com/mod/page/pix/bahaso_icon_quiz.png");
+    background-size: cover;
+}
+.activityiconcontainer.content {
+    background-image: url("https://learning.bahaso.com/mod/page/pix/bahaso_icon_peraturan.png");
+    background-size: cover;
+}
+.activityiconcontainer.other {
+    background-image: url("https://learning.bahaso.com/mod/page/pix/bahaso_icon_certificate.png");
+    background-size: cover;
+}
+.activityiconcontainer.collaboration {
+    background-image: url("https://learning.bahaso.com/mod/page/pix/bahaso_icon_collaboration.png");
+    background-size: cover;
+}
+.autolink{
+	color:#4D4D4D !important;
+}
+.color-red a{
+    color: red !important;
+}
+.course-content .sitetopic{
+    display: none;
+}
+.form-control::-webkit-input-placeholder{
+	color: #BFBFBF;
+}
+.form-control:-moz-input-placeholder{
+	color: #BFBFBF;
+}
+.form-control::-ms-input-placeholder{
+	color: #BFBFBF;
+}
+
+@media only screen and (max-width: 320px) {
+   #faq .ui_kit_tab .nav.nav-tabs li a{ 
+      font-size: .8em; 
+   }
+}
+
+.main-banner-wrapper .banner-style-one.owl-theme.owl-carousel .slide.slide-one{
+	background-position: right;
+  	background-size: cover;
+}
+
+#fitem_id_password .show-password-register {
+  	top: 8px;
+    right: 0;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#fitem_id_password .hide-password-register {
+  	top: 8px;
+    right: 0;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#login .show-password-login{
+    top: 230px;
+    right: 0;
+    margin-right: 40px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#login .hide-password-login{
+    top: 230px;
+    right: 0;
+    margin-right: 40px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#id_setpassword .show-password-reset{
+    top: 10px;
+    right: 0;
+    margin-right: 15px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#id_setpassword .hide-password-reset{
+    top: 10px;
+    right: 0;
+    margin-right: 15px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#id_setpassword .show-password-confirm{
+    top: 10px;
+    right: 0;
+    margin-right: 15px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#id_setpassword .hide-password-confirm{
+    top: 10px;
+    right: 0;
+    margin-right: 15px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+.show-password-wrong{
+    top: 236px;
+    right: 0;
+    margin-right: 45px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+.hide-password-wrong{
+    top: 236px;
+    right: 0;
+    margin-right: 45px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+.show-password-invalid{
+    top: 316px;
+    right: 0;
+    margin-right: 45px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eye.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+.hide-password-invalid{
+    top: 316px;
+    right: 0;
+    margin-right: 45px;
+    position: absolute;
+    height: 30px;
+    cursor: pointer;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url(https://learning.bahaso.com/pix/icons/bahaso_icon_eyeslash.png);
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem);
+}
+
+#fitem_id_password .is-invalid{
+	background-image: none !important;
+}
+
+/* Halaman Auth*/
+.sign_up_form.inner_page, .login_form.inner_page{
+	padding: 2em;
+    background-color: #fff;
+    border-radius: 24px;
+}
+
+.bgc-bahaso{
+	background-color: #05A6DF !important;
+}
+
+.path-login .inner_page_breadcrumb{
+	display: none;
+}
+
+.dashboard_main_content .btn-primary, .modal:not(.sign_up_modal) .btn-primary, .btn-primary{
+	background-color: #05A6DF;
+  	border: 2px solid #05A6DF;
+}
+/* end here */
+
+/*buat ngilangin modified*/
+.modified {display: none;}
+/*end here*/
+
+.justify-content-around .btn.btn-primary{
+	margin-bottom: 10px !important;
+    margin-top: 15px !important;
+}
+
+
+.moodle-dialogue-base.moodle-dialogue-confirm .yui3-widget.yui3-panel.moodle-dialogue.yui3-widget-positioned.yui3-widget-modal.yui3-widget-stacked.moodle-has-zindex.moodle-dialogue-focused{
+	width: 600px !important;
+    left: 660px !important;
+}
+.confirmation-buttons.form-inline.justify-content-around{
+	justify-content: start !important;
+}
+.confirmation-buttons.form-inline.justify-content-around .btn.btn-secondary{
+	background-color: red !important;
+  	border-color: red !important;
+    margin-left: 10px; 
+}
+.confirmation-buttons.form-inline.justify-content-around .btn.btn-secondary:hover{
+	color: #fff !important;
+}
+
+/*buat dalam kursus*/
+#quiz-timer, #ccnControlQuizTimer #quiz-timer{
+	background-color:#EF4545 !important;
+}
+
+@media only screen and (max-width: 1024px){
+	 .moodle-dialogue-base.moodle-dialogue-confirm .yui3-widget.yui3-panel.moodle-dialogue.yui3-widget-positioned.yui3-widget-modal.yui3-widget-stacked.moodle-has-zindex.moodle-dialogue-focused{
+  		width: auto !important;
+      	left: 0 !important;
+  }
+  
+  	.confirmation-buttons.form-inline.justify-content-around{
+  		    justify-content: center !important;
+  	}
+  
+}
+
+@media only screen and (max-width: 600px){
+  .moodle-dialogue-base .moodle-dialogue-fullscreen .moodle-dialogue-content{
+  	right: 0;
+  }
+  
+  /*.btn-secondary{
+  	background-color:#fff !important;
+    color: #05A6DF;
+    border-color: #05A6DF !important;
+  }*/
+  
+}
+
+@media only screen and (max-width: 320px){
+  .moodle-dialogue-base .moodle-dialogue-fullscreen .moodle-dialogue-content{
+  	right: 0;
+  }
+  
+  /*.btn-secondary{
+  	background-color:#fff !important;
+    color: #05A6DF;
+    border-color: #05A6DF !important;
+  }*/
+}
+/*End here*/
+
+/*Untuk merubah space lupa pass di login modal*/
+@media only screen and (max-width: 600px){
+  .login_form .btn-fpswd{
+  		margin: 20px 0;
+  }
+}
+/*End here*/
+
+/*buat ganti badge di course*/
+span.badge.badge-pill.alert-success.icon-no-margin{
+	    background-color: #1FD031 !important;
+}
+
+.activity-item .activity-info{
+	padding: 10px;
+}
+/*End Here*/
+
+/*buat hapus update date di kursus*/
+.tc_content a p{
+	display: none;
+}
+/*end here*/
+
+/* untuk menambah margin top pada page login index*/
+.sign_up_form.inner_page, .login_form.inner_page {
+ 	margin-top: 50px;
+}
+/* end */
+
+/*untuk menghilangkan card footer di popular course home*/
+.top_courses.ccnWithFoot div.tc_footer{
+	display: none;
+}
+
+/*end here*/
+
+.courses_all_btn{
+	display: none;
+}
